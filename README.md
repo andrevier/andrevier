@@ -1,10 +1,11 @@
-Hi, I’m André Rangel. I'm an electrical engineer and I'm pursuing a carreer change to the data science field. This repository aims to host most of my projects to accomplish this task.
+Hello there! I'm changing from the world of electrical engineering to the vast and challenging world of software development. To that end, I bring to the table my passion for algorithms and knowing how things work under the hood. 
 
-About my work:
+In the past, I worked with C++ to make desktop apps but nowadays, I'm diving into back-end technologies and APIs for the web, particularly with Java and Spring. 
 
-Along the way, I discovered the world of data science and my idea for a
-master thesis is about detecting and diagnose faults in a power converter. Perhaps a good way to combine these two disciplines: electrical engineering and data science. Such skills benefits the converter with an increase in reliability to support applications at rigorous industries. 
+My current project:
+https://github.com/andrevier/first_backend_project
 
-Talk to me at my email: andre.rangel.pro@gmail.com
+My e-mail: 
+andre.rangel.pro@gmail.com
 
-Peace!
+
