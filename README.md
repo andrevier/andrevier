@@ -3,7 +3,7 @@ Hello there! I'm changing from the world of electrical engineering to the vast a
 In the past, I worked with C++ to make desktop apps but nowadays, I'm diving into back-end technologies and APIs for the web, particularly with Java and Spring. 
 
 My current project:
-[https://github.com/andrevier/first_backend_project](https://github.com/andrevier/issue_tracker/issues)
+[https://github.com/andrevier/issue_tracker](https://github.com/andrevier/issue_tracker)
 
 My e-mail: 
 andre.rangel.pro@gmail.com
