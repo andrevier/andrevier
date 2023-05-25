@@ -5,6 +5,9 @@ In the past, I worked with C++ to make desktop apps but nowadays, I'm diving int
 My current project:
 [https://github.com/andrevier/issue_tracker](https://github.com/andrevier/issue_tracker)
 
+Spring Security studies:
+[Basic Authentication](https://github.com/andrevier/basicAuth/tree/master)
+
 My e-mail: 
 andre.rangel.pro@gmail.com
 
